@@ -5,7 +5,8 @@
 	is_prime/1,
 	prime_factors/1,
 	is_square_multiple/1,
-	find_square_multiples/2
+	find_square_multiples/2,
+	timer_exec/2
 ]).
 
 
@@ -58,3 +59,12 @@ find_square_multiples(Count, MaxN) ->
 	  fail -> fail;
 	  [{E, _} | _] -> E
 	end.
+
+timer_exec(Count, MaxN) ->
+
+    Start = os:timestamp(),
+
+    Result = find_square_multiples(Count, MaxN),
+    
+    io:format("Exec time: ~p s~n", [timer:now_diff(os:timestamp(), Start) / 1000000]),
+    io:format("Result: ~p~n", [Result]).
