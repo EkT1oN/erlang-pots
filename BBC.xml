@@ -1,0 +1,502 @@
+<?xml version="2.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 29 Mar 2021 06:20:14 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Outdoor meetings and sports to resume in England]]></title>
+            <description><![CDATA[People are still being advised to minimise their journeys amid the latest easing of lockdown rules.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56559173</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56559173</guid>
+            <pubDate>Mon, 29 Mar 2021 00:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ever Given: Stranded Suez container ship reported freed]]></title>
+            <description><![CDATA[The Ever Given has been blocking one of the world's busiest trade routes for almost a week.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-56559904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-56559904</guid>
+            <pubDate>Mon, 29 Mar 2021 06:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid jab: One dose in care homes gives 'substantial' protection]]></title>
+            <description><![CDATA[A study suggests 62% of residents are protected by a single dose of the vaccines used in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56540729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56540729</guid>
+            <pubDate>Sun, 28 Mar 2021 23:34:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: England stay-at-home order ends, and retailers see Easter boom]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus outbreak this Monday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56561010</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56561010</guid>
+            <pubDate>Mon, 29 Mar 2021 05:59:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Everyone's Invited: School abuse claims could be the 'next national scandal']]></title>
+            <description><![CDATA[A police helpline is to be set up for pupils to report complaints, following claims posted on a website.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56558487</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56558487</guid>
+            <pubDate>Sun, 28 Mar 2021 23:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It's do or die time for my insurer to pay up']]></title>
+            <description><![CDATA[Thousands of businesses across the country are feeling the pinch as insurers 'drag their heels' paying Covid claims.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56535583</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56535583</guid>
+            <pubDate>Sun, 28 Mar 2021 23:38:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia fire: Massive blaze erupts at oil refinery]]></title>
+            <description><![CDATA[Several have been injured and hundreds evacuated to safety from the blaze in West Java province.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56560826</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56560826</guid>
+            <pubDate>Mon, 29 Mar 2021 04:50:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Doctors warn against cuts to youth drug and alcohol treatment]]></title>
+            <description><![CDATA[Young people's lives are being put at risk without help for drugs and alcohol problems, they say.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56541330</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56541330</guid>
+            <pubDate>Sun, 28 Mar 2021 23:35:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Race crisis threatening police legitimacy, police chair warns]]></title>
+            <description><![CDATA[A lack of confidence in policing is having a damaging effect on law enforcement, the police chair warns.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56559834</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56559834</guid>
+            <pubDate>Mon, 29 Mar 2021 03:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mozambique: Dozens dead after militant assault on Palma]]></title>
+            <description><![CDATA[Witnesses say civilians with boats are evacuating survivors of a violent raid on the town of Palma.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56557623</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56557623</guid>
+            <pubDate>Mon, 29 Mar 2021 00:05:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Darien Gap: The 'forgotten' migrant crisis at Panama-Colombia border]]></title>
+            <description><![CDATA[It takes up to 20 days, and can be deadly – but everyday hundreds try to cross the border between Panama and Colombia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-56544700</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-56544700</guid>
+            <pubDate>Sun, 28 Mar 2021 23:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Spongy roads' to be Slough's new claim to fame]]></title>
+            <description><![CDATA[Move over David Brent, settle down John Betjeman, the town is going to be an environmental pioneer.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56556943</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56556943</guid>
+            <pubDate>Sun, 28 Mar 2021 23:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Channel Nine cyber-attack disrupts live broadcasts in Australia]]></title>
+            <description><![CDATA[The broadcaster says it is investigating whether the hack was "the work of a foreign nation".]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-56554641</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-56554641</guid>
+            <pubDate>Mon, 29 Mar 2021 01:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Variants warning, and 'rape culture' in schools]]></title>
+            <description><![CDATA[The easing of lockdown restrictions in England features on the front of many of Monday's papers.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-56559504</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-56559504</guid>
+            <pubDate>Mon, 29 Mar 2021 05:02:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Astronauts aren't just men - we're astronauts too']]></title>
+            <description><![CDATA[Seven-year-old Elizabeth built her own rocket and launched it into the sky during lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-56445616</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-56445616</guid>
+            <pubDate>Sun, 28 Mar 2021 23:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The pandemic's 'dramatic' effect on cancer care]]></title>
+            <description><![CDATA[Experts predict a rise in serious cancers due to deferred screenings and treatments.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56541223</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56541223</guid>
+            <pubDate>Sun, 28 Mar 2021 23:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: 'We need a memorial to remember']]></title>
+            <description><![CDATA[Ellis Tustin, founder of Names not Numbers, explains why he thinks the UK needs a permanent memorial to those who have died of Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56544699</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56544699</guid>
+            <pubDate>Sun, 28 Mar 2021 23:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Max Woosey tent camp-out sees 1,000 children take part]]></title>
+            <description><![CDATA[Max Woosey has raised more than £500,000 for charity by sleeping in a tent for a whole year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-56548931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-56548931</guid>
+            <pubDate>Sun, 28 Mar 2021 12:26:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICYMI: Hotdogs, hungry horses and orange skies]]></title>
+            <description><![CDATA[See volcanic fast food and other stories in our weekly video round up: In Case You Missed It.]]></description>
+            <link>https://www.bbc.co.uk/news/world-56540269</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-56540269</guid>
+            <pubDate>Sun, 28 Mar 2021 10:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Congolese special effects artist behind Avengers: Endgame and Guardians of the Galaxy]]></title>
+            <description><![CDATA[Sidney Kombi Kitombo is an award-winning Congolese special effects artist behind Avengers: Endgame.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56545250</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56545250</guid>
+            <pubDate>Sun, 28 Mar 2021 09:36:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Project 17: The photograph that united a family]]></title>
+            <description><![CDATA[A photograph of a "burner boy" working on a toxic dump in Ghana helped his family to find him.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-56541869</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-56541869</guid>
+            <pubDate>Sun, 28 Mar 2021 00:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It is so easy to choose what voluntary work to do']]></title>
+            <description><![CDATA[Charities are turning to technology to help them attract more volunteers.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56510893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56510893</guid>
+            <pubDate>Sun, 28 Mar 2021 23:33:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Josh O'Connor: Romeo role 'greatest experience of my career']]></title>
+            <description><![CDATA[The Crown star's stage role in Romeo and Juliet fizzled out - but was reborn by making a TV film.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-56487343</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-56487343</guid>
+            <pubDate>Sun, 28 Mar 2021 23:47:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[George Floyd: When does Derek Chauvin's trial start?]]></title>
+            <description><![CDATA[A US police officer is accused of killing a black man last year. Here's why the world is watching.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-56270334</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-56270334</guid>
+            <pubDate>Fri, 26 Mar 2021 15:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Easter celebrations set to rival Christmas - even down to the tree]]></title>
+            <description><![CDATA[Easter trees and garden furniture are being sought out by shoppers keen to make the most of lockdown easing.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56541002</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56541002</guid>
+            <pubDate>Sun, 28 Mar 2021 00:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Netflix show putting the spotlight on menopause]]></title>
+            <description><![CDATA[The new Netflix show Bombay Begums puts the spotlight on menopause, but why aren't we talking about it?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-56523148</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-56523148</guid>
+            <pubDate>Mon, 29 Mar 2021 00:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Not just the Proms: An unexpected history of the Royal Albert Hall]]></title>
+            <description><![CDATA[Rule Britannia has had its place - but so have Bovril, balls, Blackshirts and a bombastic celebration of the Bard.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-56428543</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-56428543</guid>
+            <pubDate>Mon, 29 Mar 2021 03:32:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Suez Canal blockage explored in numbers]]></title>
+            <description><![CDATA[The costs are mounting as efforts to free the stranded Ever Given ship go into a sixth day.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56559073</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56559073</guid>
+            <pubDate>Mon, 29 Mar 2021 06:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boat Race 2021: Famous duel returns to quiet backwater]]></title>
+            <description><![CDATA[The famous duel will take place on the Great Ouse in Cambridgeshire for the first time since 1944.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-56338056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-56338056</guid>
+            <pubDate>Sun, 28 Mar 2021 06:53:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What's happened to crime during the pandemic?]]></title>
+            <description><![CDATA[From dog theft to drug crime, lockdown has led to some big changes in policing.]]></description>
+            <link>https://www.bbc.co.uk/news/56463680</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/56463680</guid>
+            <pubDate>Sun, 28 Mar 2021 00:47:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suez Canal: How are they trying to free the Ever Given?]]></title>
+            <description><![CDATA[Operations are continuing to move a giant container vessel stuck in the Suez Canal since Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/56523659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/56523659</guid>
+            <pubDate>Sun, 28 Mar 2021 15:45:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Black Power: A British story of resistance told through music]]></title>
+            <description><![CDATA[This time, the revolution is being televised, but it was music that gave Black Power a timeless platform.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-56529301</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-56529301</guid>
+            <pubDate>Sun, 28 Mar 2021 00:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My pet has helped me so much during the pandemic']]></title>
+            <description><![CDATA[Research has shown pets can have a huge benefit to our mental health - especially this past year.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-56537990</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-56537990</guid>
+            <pubDate>Sun, 28 Mar 2021 01:07:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Impact player' Curran will get better and better - Buttler]]></title>
+            <description><![CDATA[All-rounder Sam Curran will get "better and better", according to stand-in England captain Jos Buttler.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/56559124</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/56559124</guid>
+            <pubDate>Sun, 28 Mar 2021 18:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Now Tuchel picks him everyone will agree' - how 'exceptional' Mount is proving critics wrong]]></title>
+            <description><![CDATA[Four months after receiving social media abuse, Mason Mount strengthens his case to become a regular in Gareth Southgate's England team with another strong performance against Albania.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56559161</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56559161</guid>
+            <pubDate>Sun, 28 Mar 2021 21:30:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fraser strike nets Scotland point in Israel]]></title>
+            <description><![CDATA[Ryan Fraser's deft finish earns Scotland a point as they fight back in their second World Cup qualifier against Israel in Tel Aviv.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56472932</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56472932</guid>
+            <pubDate>Sun, 28 Mar 2021 20:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England's Euro U21 hopes hang by a thread after Portugal loss]]></title>
+            <description><![CDATA[England chances of reaching the Euro Under-21 Championship quarter-finals hang by a thread following a limp display and defeat to Portugal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/56551054</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/56551054</guid>
+            <pubDate>Sun, 28 Mar 2021 21:35:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robertson beats O'Sullivan to win Tour Championship]]></title>
+            <description><![CDATA[Neil Robertson claims the Tour Championship with a 10-4 win as Ronnie O'Sullivan suffers his fifth ranking final defeat of the season.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/56552769</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/56552769</guid>
+            <pubDate>Sun, 28 Mar 2021 20:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's the roadmap for lifting lockdown?]]></title>
+            <description><![CDATA[Wales and Scotland are easing restrictions on people meeting, and changes are due in England on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Fri, 26 Mar 2021 12:11:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What is the rule of six and what are the social distancing rules?]]></title>
+            <description><![CDATA[Lockdown rules are being eased further in England and Wales so more people can meet up outside.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Fri, 26 Mar 2021 14:25:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: When will pools, gyms, pubs and hairdressers open?]]></title>
+            <description><![CDATA[Lockdown has been eased further - but what does it mean for hairdressers, pubs and gyms?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
+            <pubDate>Fri, 26 Mar 2021 18:08:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the rules for weddings and when can I hold a reception?]]></title>
+            <description><![CDATA[Wedding ceremonies are still restricted across the UK, but there are plans to ease the rules.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52811509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52811509</guid>
+            <pubDate>Fri, 26 Mar 2021 15:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When can I go on holiday abroad or in the UK?]]></title>
+            <description><![CDATA[Anyone in England who travels abroad without good reason will soon face a £5000 fine.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
+            <pubDate>Fri, 26 Mar 2021 12:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid passports: What are different countries planning?]]></title>
+            <description><![CDATA[How advanced are some countries' plans for vaccine certificates and Covid passports?]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56522408</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-56522408</guid>
+            <pubDate>Fri, 26 Mar 2021 10:22:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sun, 28 Mar 2021 16:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
+            <description><![CDATA[The logistics of vaccinating millions of people across the country, as more than 29 million people receive at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Sat, 27 Mar 2021 17:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When will I get the vaccine?]]></title>
+            <description><![CDATA[People aged 50 and over are urged to book their Covid vaccine in the next few days.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Fri, 26 Mar 2021 18:18:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which countries are on the red list and what are the quarantine rules?]]></title>
+            <description><![CDATA[Many travellers are no longer allowed to enter the UK from countries on the "red list".]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Thu, 25 Mar 2021 14:54:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where is the Oxford-AstraZeneca vaccine made?]]></title>
+            <description><![CDATA[The EU has called on AstraZeneca to "catch up" on its deliveries to the EU.]]></description>
+            <link>https://www.bbc.co.uk/news/56483766</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/56483766</guid>
+            <pubDate>Fri, 26 Mar 2021 14:51:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What is the R number and how is it calculated?]]></title>
+            <description><![CDATA[The R number is a simple but crucial figure at the heart of lockdown decisions across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52473523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52473523</guid>
+            <pubDate>Fri, 26 Mar 2021 16:09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid rules: What is the rule of six in England?]]></title>
+            <description><![CDATA[The rule of six is back for England from Monday but with some changes - we explain what they are.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56526587</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56526587</guid>
+            <pubDate>Fri, 26 Mar 2021 00:07:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does the Oxford vaccine have a blood clot problem? And other questions]]></title>
+            <description><![CDATA[We answer some of your questions about England's roadmap out of lockdown, and other Covid-related issues.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Thu, 25 Mar 2021 15:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will I need a vaccine passport to go to the pub or travel abroad?]]></title>
+            <description><![CDATA[A government review is considering whether people will need to prove they have been vaccinated.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
+            <pubDate>Thu, 25 Mar 2021 12:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What are the restrictions in your area?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Sun, 28 Mar 2021 19:35:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What’s the problem with the EU vaccine rollout?]]></title>
+            <description><![CDATA[The coronavirus vaccine is being rolled out across the EU but there have been delays.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52380823</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52380823</guid>
+            <pubDate>Fri, 26 Mar 2021 16:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India coronavirus: Why have vaccine exports been suspended?]]></title>
+            <description><![CDATA[India is a big player in vaccine production - but companies are warning of supply problems.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-55571793</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-55571793</guid>
+            <pubDate>Thu, 25 Mar 2021 10:08:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: Side effects and why it can’t give you the virus]]></title>
+            <description><![CDATA[It's normal to experience some mild side effects, such as a headache or a raised temperature.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56437270</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-56437270</guid>
+            <pubDate>Thu, 25 Mar 2021 00:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid map: Coronavirus cases, deaths, vaccinations by country]]></title>
+            <description><![CDATA[Key maps and charts explaining how the virus has spread around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51235105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
+            <pubDate>Fri, 26 Mar 2021 12:52:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
+            <description><![CDATA[Are European countries relaxing restrictions put in place to control a new wave of infections?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Fri, 26 Mar 2021 15:22:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unemployment rate: How many people are out of work?]]></title>
+            <description><![CDATA[The unemployment rate is rising as Covid hits different parts of the economy.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52660591</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52660591</guid>
+            <pubDate>Tue, 23 Mar 2021 11:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The inside story of the government's battle against the virus]]></title>
+            <description><![CDATA[Twenty of Downing Street's most senior politicians, officials and former officials take you "into the room" where essential Covid decisions were being made.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-56361599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-56361599</guid>
+            <pubDate>Mon, 15 Mar 2021 21:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The countries that nailed it, and what we can learn from them]]></title>
+            <description><![CDATA[A year into the pandemic, we look at countries that have had some success in tackling the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56455030</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56455030</guid>
+            <pubDate>Mon, 22 Mar 2021 00:05:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Your tributes to those who have died]]></title>
+            <description><![CDATA[A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52676411</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
+            <pubDate>Tue, 23 Mar 2021 01:36:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What is the Oxford-AstraZeneca vaccine?]]></title>
+            <description><![CDATA[The Oxford-AstraZeneca vaccines should save many lives, say experts.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55302595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
+            <pubDate>Mon, 22 Mar 2021 14:26:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Where does the government borrow billions from?]]></title>
+            <description><![CDATA[How does it work when a government wants to borrow money, and when does it have to pay it back?]]></description>
+            <link>https://www.bbc.co.uk/news/business-50504151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-50504151</guid>
+            <pubDate>Fri, 19 Mar 2021 07:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: More walking and family chats post-lockdown - poll suggests]]></title>
+            <description><![CDATA[We've done more walking and worked more from home this year, according to a BBC-commissioned poll.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56490823</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56490823</guid>
+            <pubDate>Tue, 23 Mar 2021 03:58:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Have a million people left the UK?]]></title>
+            <description><![CDATA[How far has the UK's foreign-born population fallen during the coronavirus pandemic?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-56435100</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56435100</guid>
+            <pubDate>Sat, 20 Mar 2021 23:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh at 50: Why climate change could destroy my ancestral home]]></title>
+            <description><![CDATA[As Bangladesh turns 50, a UK-Bangladeshi reflects on how climate change affects his parent's country.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56485667</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-56485667</guid>
+            <pubDate>Fri, 26 Mar 2021 00:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My father, the killer']]></title>
+            <description><![CDATA[Some of the children of men who helped to "disappear" thousands of Argentines in the 1970s and 80s are now speaking out - against their fathers.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-51379981</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-51379981</guid>
+            <pubDate>Thu, 25 Mar 2021 00:04:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
